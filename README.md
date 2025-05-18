@@ -1,4 +1,5 @@
 **1. Who is the audience of the report?**
+
 The target audience of this report includes: Sales Managers / Regional Managers / Sales Directors
 They need an overview of sales performance across the company as well as by product segment, market, and customer group.
 
@@ -13,6 +14,7 @@ Marketing / Planning departments: To analyze customer behavior and gain insights
 Executive leadership: To monitor business performance quickly through high-level visual KPIs.
 
 **2. What is the purpose of the report?**
+
 The report aims to:
 Provide a comprehensive analysis of sales performance across multiple dimensions: time, product categories, markets, and customer behavior.
 
